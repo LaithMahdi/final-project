@@ -8,7 +8,6 @@ This repository contains the deliverables for the IBM "Introduction to Git and G
 - `CODE_OF_CONDUCT.md` – Community guidelines
 - `CONTRIBUTING.md` – Contribution guidelines
 - `simple-interest.sh` – Shell script to calculate simple interest
-- `LICENCE` -
 
 ## Usage
 
