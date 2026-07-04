@@ -1,18 +1,16 @@
-# Final Project - Introduction to Git and GitHub
+# Introduction to Git and GitHub
 
-This repository contains the deliverables for the IBM "Introduction to Git and GitHub" final peer-reviewed assignment.
+## Simple Interest Calculator
 
-## Contents
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
-- `LICENSE` – Apache 2.0 License
-- `CODE_OF_CONDUCT.md` – Community guidelines
-- `CONTRIBUTING.md` – Contribution guidelines
-- `simple-interest.sh` – Shell script to calculate simple interest
-- `LICENCE` -
+```
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
+```
 
-## Usage
-
-Run the simple interest script:
-\`\`\`bash
-bash simple-interest.sh
-\`\`\`
+_© 2022 XYZ, Inc._
